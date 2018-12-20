@@ -10,7 +10,7 @@ voidmain()
   }
  else
   {
-    printf("odd number");
+    printf("negative number");
    }
 getch();
  }  
